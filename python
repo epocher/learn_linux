@@ -1,0 +1,10 @@
+文件格式 .py
+打印  print()
+首字母 .title()
+大写   .upper()
+小写   .lower()
+制表   \t
+换行   \n
+删除空格     .strip()
+删除左边空格   .lstrip()
+删除右边空格   .rstrip()
